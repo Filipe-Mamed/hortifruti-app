@@ -85,7 +85,7 @@ hortifruti-app
 ## Como Rodar o Projeto
 
 # Clone o repositório
-git clone https://github.com/seu-usuario/hortifruti-app.git
+git clone https://github.com/Filipe-Mamed/hortifruti-app.git
 
 cd backend # Entre na pasta backend
 npm install # Instale as dependências do backend
