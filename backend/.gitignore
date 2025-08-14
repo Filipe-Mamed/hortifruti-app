@@ -1,0 +1,19 @@
+node_modules
+.env
+.vscode/
+
+# SQLite database file(s)
+*.sqlite
+*.db
+hortifruti.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
